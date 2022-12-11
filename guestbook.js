@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://au-syd.functions.appdomain.cloud/api/v1/web/e5fd0e9e-a29d-4b3d-89cd-33677a9538fb';
+const apiUrl = 'https://au-syd.functions.appdomain.cloud/api/v1/web/e5fd0e9e-a29d-4b3d-89cd-33677a9538fb/guestbook/';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
